@@ -1,0 +1,6 @@
+{
+  "name": "Utility De Mexico S.A. De C.V.",
+  "description": "Premium industrial infrastructure and construction website with command center dashboard, quote calculator, and AI construction assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
